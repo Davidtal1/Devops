@@ -1,1 +1,1 @@
-ddfdprint "hi"
+print "hi"
